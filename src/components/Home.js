@@ -16,10 +16,10 @@ function Home() {
             <h1 style={{fontsize:"72px",color:"#919191"}}>Laxman Budihal</h1>
             <h3 style={{color:"#ff12ff"}}>React Developer</h3>
             <div>
-                <a className="m-2" href="https://www.instagram.com/">
+                <a className="m-2" href="https://www.instagram.com/laxman.budihal/">
                 <FaInstagram color="#efefef" fontSize="32px"/>
                 </a>
-                <a className="m-2" href="https://www.instagram.com/" target="_blank">
+                <a className="m-2" href="https://www.linkedin.com/in/laxman-budihal-7a4071183/" target="_blank">
                 <FaLinkedinIn color="#efefef" fontSize="32px" />
                 </a>
                 <a className="m-2" href="https://github.com/laxmanbudihal" target="_blank">
