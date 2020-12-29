@@ -14,7 +14,7 @@ function Project()  {
             <Row>
                 <Col>
                         <Card className="mt-2 mb-2">
-    <Card.Img variant="top" src="/a.png" />
+    <Card.Img variant="top" src="/todo.png" />
      <Card.Body>
         <Card.Title>To-Do app</Card.Title>
         <Card.Text>
