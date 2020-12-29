@@ -18,8 +18,7 @@ function Project()  {
      <Card.Body>
         <Card.Title>To-Do app</Card.Title>
         <Card.Text>
-        Some quick example text to build on the card title and make up the bulk of
-        the card's content.
+        To Do App it will help you to Save a note of Work And After the completion of Work if you click on the work Message box then it Show you that the work is Completed
         </Card.Text>
         <Button
          onClick={()=>{
@@ -36,8 +35,9 @@ function Project()  {
     <Card.Img variant="top" src="/a.png" />
      <Card.Body>
         <Card.Title>Card Title</Card.Title>
-        <Card.Text>
-        To Do App it will help you to Save a note of Work And After the completion of Work if you click on the work Message box then it Show you that the work is Completed
+       <Card.Text>
+        Some quick example text to build on the card title and make up the bulk of
+        the card's content.
         </Card.Text>
         <Button
          onClick={()=>{
@@ -55,7 +55,8 @@ function Project()  {
     <Card.Body>
         <Card.Title>Card Title</Card.Title>
         <Card.Text>
-        To Do App it will help you to Save a note of Work And After the completion of Work if you click on the work Message box then it Show you that the work is Completed
+        Some quick example text to build on the card title and make up the bulk of
+        the card's content.
         </Card.Text>
         <Button
          onClick={()=>{
