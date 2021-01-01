@@ -9,7 +9,7 @@ function Navigation() {
     <Nav className="ml-auto">
       <Nav.Link href="#home">Home</Nav.Link>
       <Nav.Link href="#projects">Projects</Nav.Link>
-      <Nav.Link href="#contact">Contact</Nav.Link>
+      <Nav.Link href="Contact.js">Contact</Nav.Link>
       <Nav.Link href="#resume">Resume</Nav.Link>
   </Nav>
   </Navbar>
